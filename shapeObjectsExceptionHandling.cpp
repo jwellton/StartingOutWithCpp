@@ -1,6 +1,6 @@
 /*
 This program demonstrate exception handling.
-when a user enter an invalid vaalue for the chosen shape
+when a user enter an invalid value for the chosen shape
 The program takes entered value from the user and determine ,
 if the value is valid or throws an exceptions
 then display dates in integer format on the console
